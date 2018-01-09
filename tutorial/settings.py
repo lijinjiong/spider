@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-
+#feed_export_encoding
+FEED_EXPORT_ENCODING = 'utf-8'
 # Scrapy settings for tutorial project
 #
 # For simplicity, this file contains only settings considered important or
