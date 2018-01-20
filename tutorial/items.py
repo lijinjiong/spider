@@ -14,10 +14,12 @@
 #
 import scrapy
 
+
 class  DmozItem(scrapy.Item):
     author = scrapy.Field()
     text = scrapy.Field()
     # desc = scrapy.Field()
+
 
 class DoubanMovieItem(scrapy.Item):
         # 排名

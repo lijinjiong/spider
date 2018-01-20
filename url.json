@@ -1,0 +1,13 @@
+[
+{"url": "/food/group/1", "name": "谷薯芋、杂豆、主食"},
+{"url": "/food/group/2", "name": "蛋类、肉类及制品"},
+{"url": "/food/group/3", "name": "奶类及制品"},
+{"url": "/food/group/4", "name": "蔬果和菌藻"},
+{"url": "/food/group/5", "name": "坚果、大豆及制品"},
+{"url": "/food/group/6", "name": "饮料"},
+{"url": "/food/group/7", "name": "食用油、油脂及制品"},
+{"url": "/food/group/8", "name": "调味品"},
+{"url": "/food/group/9", "name": "零食、点心、冷饮"},
+{"url": "/food/group/10", "name": "其它"},
+{"url": "/food/view_menu", "name": "菜肴"}
+]

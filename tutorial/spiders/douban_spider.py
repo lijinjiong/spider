@@ -37,4 +37,3 @@ class DoubanMovieTop250Spider(scrapy.Spider):
         if next_urls:
             next_url = 'https://movie.douban.com/top250'+next_urls[0]
             yield scrapy.Request(url=next_url, headers=headers)
-    
